@@ -1,0 +1,5794 @@
+{
+  "source": "data\\client_seed\\dbc\\TaxiNodes.dbc",
+  "worldmap_source": "data\\derived\\worldmap_2d.json",
+  "maps": {
+    "0": {
+      "all_nodes": [
+        {
+          "id": 216,
+          "map_id": 0,
+          "name": "",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 217,
+          "map_id": 0,
+          "name": "",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 238,
+          "map_id": 0,
+          "name": "",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 36,
+          "map_id": 0,
+          "name": "Generic, World Target 001",
+          "position": {
+            "x": -8644.6201171875,
+            "y": 433.2799987792969,
+            "z": 59.459999084472656
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.269937679128443,
+            "y": 0.5646004855524956
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 24,
+          "map_id": 0,
+          "name": "Generic, World Target 002",
+          "position": {
+            "x": -6666.0,
+            "y": -2222.300048828125,
+            "z": 278.6000061035156
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.3428158703484156,
+            "y": 0.4994187716043805
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 197,
+          "map_id": 0,
+          "name": "Test SP2",
+          "position": {
+            "x": -9148.6201171875,
+            "y": 243.0399932861328,
+            "z": 87.38999938964844
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.25137392954569,
+            "y": 0.5599310086784262
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 299,
+          "map_id": 0,
+          "name": "Transport: Menethil <-> Valgarde",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 315,
+          "map_id": 0,
+          "name": "\u4e9e\u69ad\u6d1b:\u9eef\u9ed1\u5821",
+          "position": {
+            "x": 2352.3701171875,
+            "y": -5666.91015625,
+            "z": 382.239990234375
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6749880221342327,
+            "y": 0.4148701657783018
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 214,
+          "map_id": 0,
+          "name": "\u4efb\u52d9 - \u51dc\u98a8\u5cfd\u7063 - \u5948\u683c\u6cd5 (\u958b\u59cb)",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 215,
+          "map_id": 0,
+          "name": "\u4efb\u52d9 - \u51dc\u98a8\u5cfd\u7063 - \u5948\u683c\u6cd5(\u9ede)",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 285,
+          "map_id": 0,
+          "name": "\u4efb\u52d9 - \u6eab\u7279\u52a0\u5fb7 -> \u7e41\u661f\u4e4b\u7720 (\u958b\u59cb)",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 287,
+          "map_id": 0,
+          "name": "\u4efb\u52d9 - \u74e6\u723e\u52a0\u5fb7 -> \u6eab\u7279\u52a0\u5fb7\u8981\u585e\u958b\u59cb",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 223,
+          "map_id": 0,
+          "name": "\u4efb\u52d9 - \u7d0d\u6208\u74e6",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 154,
+          "map_id": 0,
+          "name": "\u4efb\u52d9 - \u865b\u7a7a\u98a8\u66b4 - \u6cd5\u529b\u7194\u7210\u5967\u5d14\u65af (\u7b2c\u4e8c\u6b21\u901a\u904e) \u8d77\u9ede",
+          "position": {
+            "x": 20047.880859375,
+            "y": 5200.68994140625,
+            "z": 19742.779296875
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 1.3267638756201154,
+            "y": 0.6816174632307557
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 20,
+            "area_id": 85,
+            "area_name": "Tirisfal",
+            "area_name_zh": "\u63d0\u91cc\u65af\u6cd5\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 46,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u5357\u6d77\u93ae",
+          "position": {
+            "x": -986.4299926757812,
+            "y": -547.8599853515625,
+            "z": -3.859999895095825
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5520105436692123,
+            "y": 0.54051821928969
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 24,
+            "area_id": 267,
+            "area_name": "Hilsbrad",
+            "area_name_zh": "\u5e0c\u723e\u65af\u5e03\u840a\u5fb7\u4e18\u9675"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 265,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u585e\u62c9\u6469 (NEW)",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 89,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u585e\u62c9\u6469\u5cf6",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 51,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u5967\u4f2f\u4e01",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 264,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u5967\u4f2f\u4e01 (NEW)",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 300,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u66b4\u98a8\u57ce",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 47,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u683c\u7f85\u59c6\u9ad8",
+          "position": {
+            "x": -12418.76953125,
+            "y": 235.42999267578125,
+            "z": 1.1200000047683716
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.13092505093290668,
+            "y": 0.5597442197757998
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 266,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u7c73\u5948\u5e0c\u723e (NEW)",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 50,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u7c73\u5948\u5e0c\u723e\u6e2f",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 241,
+          "map_id": 0,
+          "name": "\u50b3\u9001\uff0c\u9a4d\u52c7\u8981\u585e",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 66,
+          "map_id": 0,
+          "name": "\u51b0\u98a8\u71df\u5730\uff0c\u897f\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 931.3200073242188,
+            "y": -1430.1099853515625,
+            "z": 64.66999816894531
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6226467158166819,
+            "y": 0.5188632263692032
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 85,
+          "map_id": 0,
+          "name": "\u5317\u5730\u54e8\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 3109.31005859375,
+            "y": -4285.1298828125,
+            "z": 109.44999694824219
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.7028682672164734,
+            "y": 0.44878622362920273
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 1,
+          "map_id": 0,
+          "name": "\u5317\u90e1\u4fee\u9053\u9662",
+          "position": {
+            "x": -8888.98046875,
+            "y": -0.5400000214576721,
+            "z": 94.38999938964844
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.2609371942586816,
+            "y": 0.5539522917267139
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 224,
+          "map_id": 0,
+          "name": "\u5317\u98a8\u51cd\u539f\uff0c\u7d0d\u6208\u74e6",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 14,
+          "map_id": 0,
+          "name": "\u5357\u6d77\u93ae\uff0c\u5e0c\u723e\u65af\u5e03\u840a\u5fb7",
+          "position": {
+            "x": -711.47998046875,
+            "y": -515.47998046875,
+            "z": 26.110000610351562
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5621377325072803,
+            "y": 0.5413129926266157
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 24,
+            "area_id": 267,
+            "area_name": "Hilsbrad",
+            "area_name_zh": "\u5e0c\u723e\u65af\u5e03\u840a\u5fb7\u4e18\u9675"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 21,
+          "map_id": 0,
+          "name": "\u5361\u52a0\u65af\uff0c\u8352\u856a\u4e4b\u5730",
+          "position": {
+            "x": -6633.990234375,
+            "y": -2180.050048828125,
+            "z": 244.13999938964844
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.34399488081124324,
+            "y": 0.5004558058360501
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 195,
+          "map_id": 0,
+          "name": "\u53cd\u6297\u8ecd\u71df\u5730\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -11343.9697265625,
+            "y": -216.8300018310547,
+            "z": 75.22000122070312
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.17051297638094362,
+            "y": 0.5486434127718158
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 34,
+            "area_id": 10,
+            "area_name": "Duskwood",
+            "area_name_zh": "\u66ae\u8272\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 4,
+          "map_id": 0,
+          "name": "\u54e8\u5175\u5dba\uff0c\u897f\u90e8\u8352\u91ce",
+          "position": {
+            "x": -10629.2900390625,
+            "y": 1036.949951171875,
+            "z": 34.02000045776367
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.1968366564417178,
+            "y": 0.5794176785764366
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 39,
+            "area_id": 40,
+            "area_name": "Westfall",
+            "area_name_zh": "\u897f\u90e8\u8352\u91ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 13,
+          "map_id": 0,
+          "name": "\u5854\u502b\u7c73\u723e\uff0c\u5e0c\u723e\u65af\u5e03\u840a\u5fb7",
+          "position": {
+            "x": -0.05999999865889549,
+            "y": -859.9099731445312,
+            "z": 58.83000183105469
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883413483120695,
+            "y": 0.5328588933883075
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 8,
+          "map_id": 0,
+          "name": "\u585e\u723e\u85a9\u746a\uff0c\u6d1b\u514b\u83ab\u4e39",
+          "position": {
+            "x": -5421.91015625,
+            "y": -2930.010009765625,
+            "z": 347.25
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.38863922812187063,
+            "y": 0.48204789691595934
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 35,
+            "area_id": 38,
+            "area_name": "LochModan",
+            "area_name_zh": "\u6d1b\u514b\u83ab\u4e39"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 12,
+          "map_id": 0,
+          "name": "\u591c\u8272\u93ae\uff0c\u66ae\u8272\u68ee\u6797",
+          "position": {
+            "x": -10515.4599609375,
+            "y": -1261.6500244140625,
+            "z": 41.34000015258789
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.20102934109508627,
+            "y": 0.5229981079350713
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 32,
+            "area_id": 41,
+            "area_name": "DeadwindPass",
+            "area_name_zh": "\u9006\u98a8\u5c0f\u5f91"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 45,
+          "map_id": 0,
+          "name": "\u5b88\u671b\u5821\uff0c\u8a5b\u5492\u4e4b\u5730",
+          "position": {
+            "x": -11112.25,
+            "y": -3435.739990234375,
+            "z": 79.08999633789062
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.17904787117715443,
+            "y": 0.46963465900524387
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 38,
+            "area_id": 8,
+            "area_name": "SwampOfSorrows",
+            "area_name_zh": "\u60b2\u50b7\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 3,
+          "map_id": 0,
+          "name": "\u5de5\u7a0b\u5e2b\u5cf6",
+          "position": {
+            "x": 16391.810546875,
+            "y": 16341.2099609375,
+            "z": 69.44000244140625
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 1.192100435663394,
+            "y": 0.955063631724369
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 20,
+            "area_id": 85,
+            "area_name": "Tirisfal",
+            "area_name_zh": "\u63d0\u91cc\u65af\u6cd5\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 11,
+          "map_id": 0,
+          "name": "\u5e7d\u6697\u57ce\uff0c\u63d0\u91cc\u65af\u6cd5\u6797\u5730",
+          "position": {
+            "x": 1568.6199951171875,
+            "y": 267.9700012207031,
+            "z": -43.099998474121094
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6461202820517616,
+            "y": 0.560542920432839
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 382,
+            "area_id": 1497,
+            "area_name": "Undercity",
+            "area_name_zh": "\u5e7d\u6697\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 76,
+          "map_id": 0,
+          "name": "\u60e1\u9f52\u6751\uff0c\u8f9b\u7279\u862d",
+          "position": {
+            "x": -635.260009765625,
+            "y": -4720.5,
+            "z": 5.380000114440918
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5649451302242199,
+            "y": 0.43809998185477733
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 26,
+            "area_id": 47,
+            "area_name": "Hinterlands",
+            "area_name_zh": "\u8f9b\u7279\u862d"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 71,
+          "map_id": 0,
+          "name": "\u6469\u6839\u7684\u5d17\u54e8\uff0c\u71c3\u71d2\u5e73\u539f",
+          "position": {
+            "x": -8364.6103515625,
+            "y": -2738.35009765625,
+            "z": 185.4600067138672
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.28025123303675226,
+            "y": 0.48675222566616577
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 29,
+            "area_id": 46,
+            "area_name": "BurningSteppes",
+            "area_name_zh": "\u71c3\u71d2\u5e73\u539f"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 56,
+          "map_id": 0,
+          "name": "\u65af\u901a\u7d0d\u5fb7\uff0c\u60b2\u50b7\u6cbc\u6fa4",
+          "position": {
+            "x": -10456.9697265625,
+            "y": -3279.25,
+            "z": 21.350000381469727
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.20318370233313,
+            "y": 0.4734757353788936
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 38,
+            "area_id": 8,
+            "area_name": "SwampOfSorrows",
+            "area_name_zh": "\u60b2\u50b7\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 2,
+          "map_id": 0,
+          "name": "\u66b4\u98a8\u57ce\uff0c\u827e\u723e\u6587\u68ee\u6797",
+          "position": {
+            "x": -8840.5595703125,
+            "y": 489.70001220703125,
+            "z": 109.61000061035156
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.26272067329274046,
+            "y": 0.5659853254406808
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 86,
+          "map_id": 0,
+          "name": "\u6771\u7246\u4e4b\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2499.22998046875,
+            "y": -4742.85009765625,
+            "z": 93.5
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6803972874630233,
+            "y": 0.4375513944855302
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 15,
+          "map_id": 0,
+          "name": "\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2253.39990234375,
+            "y": -5344.89990234375,
+            "z": 83.37999725341797
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6713426683951242,
+            "y": 0.42277396829308106
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 20,
+          "map_id": 0,
+          "name": "\u683c\u7f85\u59c6\u9ad8\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -12414.1796875,
+            "y": 146.2899932861328,
+            "z": 3.2799999713897705
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.13109410789719034,
+            "y": 0.5575562616508749
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 293,
+          "map_id": 0,
+          "name": "\u6a23\u5f0f - \u66b4\u98a8\u6e2f - \u7d42\u9ede",
+          "position": {
+            "x": -8341.08984375,
+            "y": 1101.8499755859375,
+            "z": 57.2599983215332
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.28111756005478883,
+            "y": 0.5810106619362846
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 292,
+          "map_id": 0,
+          "name": "\u6a23\u5f0f - \u66b4\u98a8\u6e2f - \u8d77\u9ede",
+          "position": {
+            "x": -8338.3603515625,
+            "y": 1107.010009765625,
+            "z": 57.2599983215332
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.2812180949941873,
+            "y": 0.5811373159500343
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 5,
+          "map_id": 0,
+          "name": "\u6e56\u7554\u93ae\uff0c\u8d64\u810a\u5c71",
+          "position": {
+            "x": -9429.099609375,
+            "y": -2231.39990234375,
+            "z": 68.6500015258789
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.2410430742757168,
+            "y": 0.49919541398073825
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 36,
+            "area_id": 44,
+            "area_name": "Redridge",
+            "area_name_zh": "\u8d64\u810a\u5c71"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 70,
+          "map_id": 0,
+          "name": "\u70c8\u7130\u5cf0\uff0c\u71c3\u71d2\u5e73\u539f",
+          "position": {
+            "x": -7504.02978515625,
+            "y": -2187.5400390625,
+            "z": 165.52999877929688
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.3119488563116518,
+            "y": 0.500271962610774
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 10,
+          "map_id": 0,
+          "name": "\u745f\u4f2f\u5207\u723e\uff0c\u9280\u677e\u68ee\u6797",
+          "position": {
+            "x": 478.8599853515625,
+            "y": 1536.5899658203125,
+            "z": 131.32000732421875
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6059813298164689,
+            "y": 0.591681437125605
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 21,
+            "area_id": 130,
+            "area_name": "Silverpine",
+            "area_name_zh": "\u9280\u677e\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 74,
+          "map_id": 0,
+          "name": "\u745f\u9280\u54e8\u5854\uff0c\u707c\u71b1\u5cfd\u8c37",
+          "position": {
+            "x": -6552.58984375,
+            "y": -1168.27001953125,
+            "z": 309.30999755859375
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.3469930880880305,
+            "y": 0.5252901377958277
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 75,
+          "map_id": 0,
+          "name": "\u745f\u9280\u54e8\u5854\uff0c\u707c\u71b1\u5cfd\u8c37",
+          "position": {
+            "x": -6554.93017578125,
+            "y": -1100.050048828125,
+            "z": 309.57000732421875
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.34690688702102923,
+            "y": 0.5269646098645292
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 84,
+          "map_id": 0,
+          "name": "\u75c5\u6728\u6797\u54e8\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2998.7099609375,
+            "y": -3050.10009765625,
+            "z": 117.19000244140625
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6987945519055238,
+            "y": 0.47910026302183395
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 87,
+          "map_id": 0,
+          "name": "\u7687\u51a0\u54e8\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 1857.56005859375,
+            "y": -3658.469970703125,
+            "z": 143.72999572753906
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6567627641604991,
+            "y": 0.4641677095575466
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 7,
+          "map_id": 0,
+          "name": "\u7c73\u5948\u5e0c\u723e\u6e2f\uff0c\u6fd5\u5730",
+          "position": {
+            "x": -3792.260009765625,
+            "y": -783.2899780273438,
+            "z": 9.0600004196167
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.44866386547669745,
+            "y": 0.5347395456431451
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 40,
+            "area_id": 11,
+            "area_name": "Wetlands",
+            "area_name_zh": "\u6fd5\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 78,
+          "map_id": 0,
+          "name": "\u7d0d\u514b\u85a9\u746a\u65af",
+          "position": {
+            "x": 3133.31005859375,
+            "y": -3399.929931640625,
+            "z": 139.52999877929688
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.7037522552918427,
+            "y": 0.470513623658494
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 67,
+          "map_id": 0,
+          "name": "\u8056\u5149\u4e4b\u9858\u79ae\u62dc\u5802\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2271.090087890625,
+            "y": -5340.7998046875,
+            "z": 87.11000061035156
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.671994248106562,
+            "y": 0.42287460596462473
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 68,
+          "map_id": 0,
+          "name": "\u8056\u5149\u4e4b\u9858\u79ae\u62dc\u5802\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2327.409912109375,
+            "y": -5286.89013671875,
+            "z": 81.77999877929688
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6740686669822397,
+            "y": 0.42419782894927655
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 17,
+          "map_id": 0,
+          "name": "\u843d\u9318\u93ae\uff0c\u963f\u62c9\u5e0c\u9ad8\u5730",
+          "position": {
+            "x": -916.2899780273438,
+            "y": -3496.889892578125,
+            "z": 70.44999694824219
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5545939993590223,
+            "y": 0.46813372310006696
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 16,
+            "area_id": 45,
+            "area_name": "Arathi",
+            "area_name_zh": "\u963f\u62c9\u5e0c\u9ad8\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 168,
+          "map_id": 0,
+          "name": "\u8584\u9727\u4e4b\u5730",
+          "position": {
+            "x": -9441.1796875,
+            "y": 65.05000305175781,
+            "z": 56.18000030517578
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.24059813073354896,
+            "y": 0.5555622107430984
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 30,
+            "area_id": 12,
+            "area_name": "Elwynn",
+            "area_name_zh": "\u827e\u723e\u6587\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 9,
+          "map_id": 0,
+          "name": "\u85cf\u5bf6\u6d77\u7063\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -14271.76953125,
+            "y": 299.8699951171875,
+            "z": 31.09000015258789
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.06267380494711035,
+            "y": 0.5613259118094238
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 18,
+          "map_id": 0,
+          "name": "\u85cf\u5bf6\u6d77\u7063\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -14444.2900390625,
+            "y": 509.6199951171875,
+            "z": 26.200000762939453
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.056319385294490036,
+            "y": 0.5664742651843994
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 19,
+          "map_id": 0,
+          "name": "\u85cf\u5bf6\u6d77\u7063\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -14473.0498046875,
+            "y": 464.1499938964844,
+            "z": 36.43000030517578
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.055260081550202005,
+            "y": 0.5653581954144601
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 16,
+          "map_id": 0,
+          "name": "\u907f\u96e3\u8c37\u5730\uff0c\u963f\u62c9\u5e0c\u9ad8\u5730",
+          "position": {
+            "x": -1240.530029296875,
+            "y": -2515.110107421875,
+            "z": 22.15999984741211
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5426513185723822,
+            "y": 0.49223169339990896
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 16,
+            "area_id": 45,
+            "area_name": "Arathi",
+            "area_name_zh": "\u963f\u62c9\u5e0c\u9ad8\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 6,
+          "map_id": 0,
+          "name": "\u9435\u7210\u5821\uff0c\u4e39\u83ab\u6d1b",
+          "position": {
+            "x": -4821.77978515625,
+            "y": -1155.43994140625,
+            "z": 502.2099914550781
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.41074373194327746,
+            "y": 0.5256050544872033
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 341,
+            "area_id": 1537,
+            "area_name": "Ironforge",
+            "area_name_zh": "\u9435\u7210\u5821"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 229,
+          "map_id": 0,
+          "name": "\u958b\u767c\u4e4b\u5730 - \u5e15\u7279\u6e2c\u8a66\u7d50\u675f",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 228,
+          "map_id": 0,
+          "name": "\u958b\u767c\u4e4b\u5730 - \u5e15\u7279\u6e2c\u8a66\u958b\u59cb",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 43,
+          "map_id": 0,
+          "name": "\u9df9\u5de2\u5c71\uff0c\u8f9b\u7279\u862d",
+          "position": {
+            "x": 283.739990234375,
+            "y": -2002.760009765625,
+            "z": 194.74000549316406
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5987945069435652,
+            "y": 0.5048074233376327
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 316,
+          "map_id": 0,
+          "name": "\u9eef\u9ed1\u5821 - \u4e9e\u69ad\u6d1b -> \u6b7b\u4ea1\u6b62\u5883\u958b\u59cb",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 318,
+          "map_id": 0,
+          "name": "\u9eef\u9ed1\u5821 - \u6b7b\u4ea1\u6b62\u5883 -> \u4e9e\u69ad\u6d1b\u958b\u59cb",
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883435582822086,
+            "y": 0.5539655461292549
+          },
+          "node_kind": "zero_position",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        }
+      ],
+      "usable_nodes": [
+        {
+          "id": 315,
+          "map_id": 0,
+          "name": "\u4e9e\u69ad\u6d1b:\u9eef\u9ed1\u5821",
+          "position": {
+            "x": 2352.3701171875,
+            "y": -5666.91015625,
+            "z": 382.239990234375
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6749880221342327,
+            "y": 0.4148701657783018
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 66,
+          "map_id": 0,
+          "name": "\u51b0\u98a8\u71df\u5730\uff0c\u897f\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 931.3200073242188,
+            "y": -1430.1099853515625,
+            "z": 64.66999816894531
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6226467158166819,
+            "y": 0.5188632263692032
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 85,
+          "map_id": 0,
+          "name": "\u5317\u5730\u54e8\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 3109.31005859375,
+            "y": -4285.1298828125,
+            "z": 109.44999694824219
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.7028682672164734,
+            "y": 0.44878622362920273
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 1,
+          "map_id": 0,
+          "name": "\u5317\u90e1\u4fee\u9053\u9662",
+          "position": {
+            "x": -8888.98046875,
+            "y": -0.5400000214576721,
+            "z": 94.38999938964844
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.2609371942586816,
+            "y": 0.5539522917267139
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 14,
+          "map_id": 0,
+          "name": "\u5357\u6d77\u93ae\uff0c\u5e0c\u723e\u65af\u5e03\u840a\u5fb7",
+          "position": {
+            "x": -711.47998046875,
+            "y": -515.47998046875,
+            "z": 26.110000610351562
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5621377325072803,
+            "y": 0.5413129926266157
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 24,
+            "area_id": 267,
+            "area_name": "Hilsbrad",
+            "area_name_zh": "\u5e0c\u723e\u65af\u5e03\u840a\u5fb7\u4e18\u9675"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 21,
+          "map_id": 0,
+          "name": "\u5361\u52a0\u65af\uff0c\u8352\u856a\u4e4b\u5730",
+          "position": {
+            "x": -6633.990234375,
+            "y": -2180.050048828125,
+            "z": 244.13999938964844
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.34399488081124324,
+            "y": 0.5004558058360501
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 195,
+          "map_id": 0,
+          "name": "\u53cd\u6297\u8ecd\u71df\u5730\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -11343.9697265625,
+            "y": -216.8300018310547,
+            "z": 75.22000122070312
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.17051297638094362,
+            "y": 0.5486434127718158
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 34,
+            "area_id": 10,
+            "area_name": "Duskwood",
+            "area_name_zh": "\u66ae\u8272\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 4,
+          "map_id": 0,
+          "name": "\u54e8\u5175\u5dba\uff0c\u897f\u90e8\u8352\u91ce",
+          "position": {
+            "x": -10629.2900390625,
+            "y": 1036.949951171875,
+            "z": 34.02000045776367
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.1968366564417178,
+            "y": 0.5794176785764366
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 39,
+            "area_id": 40,
+            "area_name": "Westfall",
+            "area_name_zh": "\u897f\u90e8\u8352\u91ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 13,
+          "map_id": 0,
+          "name": "\u5854\u502b\u7c73\u723e\uff0c\u5e0c\u723e\u65af\u5e03\u840a\u5fb7",
+          "position": {
+            "x": -0.05999999865889549,
+            "y": -859.9099731445312,
+            "z": 58.83000183105469
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5883413483120695,
+            "y": 0.5328588933883075
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 8,
+          "map_id": 0,
+          "name": "\u585e\u723e\u85a9\u746a\uff0c\u6d1b\u514b\u83ab\u4e39",
+          "position": {
+            "x": -5421.91015625,
+            "y": -2930.010009765625,
+            "z": 347.25
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.38863922812187063,
+            "y": 0.48204789691595934
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 35,
+            "area_id": 38,
+            "area_name": "LochModan",
+            "area_name_zh": "\u6d1b\u514b\u83ab\u4e39"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 12,
+          "map_id": 0,
+          "name": "\u591c\u8272\u93ae\uff0c\u66ae\u8272\u68ee\u6797",
+          "position": {
+            "x": -10515.4599609375,
+            "y": -1261.6500244140625,
+            "z": 41.34000015258789
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.20102934109508627,
+            "y": 0.5229981079350713
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 32,
+            "area_id": 41,
+            "area_name": "DeadwindPass",
+            "area_name_zh": "\u9006\u98a8\u5c0f\u5f91"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 45,
+          "map_id": 0,
+          "name": "\u5b88\u671b\u5821\uff0c\u8a5b\u5492\u4e4b\u5730",
+          "position": {
+            "x": -11112.25,
+            "y": -3435.739990234375,
+            "z": 79.08999633789062
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.17904787117715443,
+            "y": 0.46963465900524387
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 38,
+            "area_id": 8,
+            "area_name": "SwampOfSorrows",
+            "area_name_zh": "\u60b2\u50b7\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 3,
+          "map_id": 0,
+          "name": "\u5de5\u7a0b\u5e2b\u5cf6",
+          "position": {
+            "x": 16391.810546875,
+            "y": 16341.2099609375,
+            "z": 69.44000244140625
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 1.192100435663394,
+            "y": 0.955063631724369
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 20,
+            "area_id": 85,
+            "area_name": "Tirisfal",
+            "area_name_zh": "\u63d0\u91cc\u65af\u6cd5\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 11,
+          "map_id": 0,
+          "name": "\u5e7d\u6697\u57ce\uff0c\u63d0\u91cc\u65af\u6cd5\u6797\u5730",
+          "position": {
+            "x": 1568.6199951171875,
+            "y": 267.9700012207031,
+            "z": -43.099998474121094
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6461202820517616,
+            "y": 0.560542920432839
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 382,
+            "area_id": 1497,
+            "area_name": "Undercity",
+            "area_name_zh": "\u5e7d\u6697\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 76,
+          "map_id": 0,
+          "name": "\u60e1\u9f52\u6751\uff0c\u8f9b\u7279\u862d",
+          "position": {
+            "x": -635.260009765625,
+            "y": -4720.5,
+            "z": 5.380000114440918
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5649451302242199,
+            "y": 0.43809998185477733
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 26,
+            "area_id": 47,
+            "area_name": "Hinterlands",
+            "area_name_zh": "\u8f9b\u7279\u862d"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 71,
+          "map_id": 0,
+          "name": "\u6469\u6839\u7684\u5d17\u54e8\uff0c\u71c3\u71d2\u5e73\u539f",
+          "position": {
+            "x": -8364.6103515625,
+            "y": -2738.35009765625,
+            "z": 185.4600067138672
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.28025123303675226,
+            "y": 0.48675222566616577
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 29,
+            "area_id": 46,
+            "area_name": "BurningSteppes",
+            "area_name_zh": "\u71c3\u71d2\u5e73\u539f"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 56,
+          "map_id": 0,
+          "name": "\u65af\u901a\u7d0d\u5fb7\uff0c\u60b2\u50b7\u6cbc\u6fa4",
+          "position": {
+            "x": -10456.9697265625,
+            "y": -3279.25,
+            "z": 21.350000381469727
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.20318370233313,
+            "y": 0.4734757353788936
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 38,
+            "area_id": 8,
+            "area_name": "SwampOfSorrows",
+            "area_name_zh": "\u60b2\u50b7\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 2,
+          "map_id": 0,
+          "name": "\u66b4\u98a8\u57ce\uff0c\u827e\u723e\u6587\u68ee\u6797",
+          "position": {
+            "x": -8840.5595703125,
+            "y": 489.70001220703125,
+            "z": 109.61000061035156
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.26272067329274046,
+            "y": 0.5659853254406808
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 86,
+          "map_id": 0,
+          "name": "\u6771\u7246\u4e4b\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2499.22998046875,
+            "y": -4742.85009765625,
+            "z": 93.5
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6803972874630233,
+            "y": 0.4375513944855302
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 15,
+          "map_id": 0,
+          "name": "\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2253.39990234375,
+            "y": -5344.89990234375,
+            "z": 83.37999725341797
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6713426683951242,
+            "y": 0.42277396829308106
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 20,
+          "map_id": 0,
+          "name": "\u683c\u7f85\u59c6\u9ad8\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -12414.1796875,
+            "y": 146.2899932861328,
+            "z": 3.2799999713897705
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.13109410789719034,
+            "y": 0.5575562616508749
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 293,
+          "map_id": 0,
+          "name": "\u6a23\u5f0f - \u66b4\u98a8\u6e2f - \u7d42\u9ede",
+          "position": {
+            "x": -8341.08984375,
+            "y": 1101.8499755859375,
+            "z": 57.2599983215332
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.28111756005478883,
+            "y": 0.5810106619362846
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 292,
+          "map_id": 0,
+          "name": "\u6a23\u5f0f - \u66b4\u98a8\u6e2f - \u8d77\u9ede",
+          "position": {
+            "x": -8338.3603515625,
+            "y": 1107.010009765625,
+            "z": 57.2599983215332
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.2812180949941873,
+            "y": 0.5811373159500343
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 301,
+            "area_id": 1519,
+            "area_name": "Stormwind",
+            "area_name_zh": "\u66b4\u98a8\u57ce"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 5,
+          "map_id": 0,
+          "name": "\u6e56\u7554\u93ae\uff0c\u8d64\u810a\u5c71",
+          "position": {
+            "x": -9429.099609375,
+            "y": -2231.39990234375,
+            "z": 68.6500015258789
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.2410430742757168,
+            "y": 0.49919541398073825
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 36,
+            "area_id": 44,
+            "area_name": "Redridge",
+            "area_name_zh": "\u8d64\u810a\u5c71"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 70,
+          "map_id": 0,
+          "name": "\u70c8\u7130\u5cf0\uff0c\u71c3\u71d2\u5e73\u539f",
+          "position": {
+            "x": -7504.02978515625,
+            "y": -2187.5400390625,
+            "z": 165.52999877929688
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.3119488563116518,
+            "y": 0.500271962610774
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 10,
+          "map_id": 0,
+          "name": "\u745f\u4f2f\u5207\u723e\uff0c\u9280\u677e\u68ee\u6797",
+          "position": {
+            "x": 478.8599853515625,
+            "y": 1536.5899658203125,
+            "z": 131.32000732421875
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6059813298164689,
+            "y": 0.591681437125605
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 21,
+            "area_id": 130,
+            "area_name": "Silverpine",
+            "area_name_zh": "\u9280\u677e\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 74,
+          "map_id": 0,
+          "name": "\u745f\u9280\u54e8\u5854\uff0c\u707c\u71b1\u5cfd\u8c37",
+          "position": {
+            "x": -6552.58984375,
+            "y": -1168.27001953125,
+            "z": 309.30999755859375
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.3469930880880305,
+            "y": 0.5252901377958277
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 75,
+          "map_id": 0,
+          "name": "\u745f\u9280\u54e8\u5854\uff0c\u707c\u71b1\u5cfd\u8c37",
+          "position": {
+            "x": -6554.93017578125,
+            "y": -1100.050048828125,
+            "z": 309.57000732421875
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.34690688702102923,
+            "y": 0.5269646098645292
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 28,
+            "area_id": 51,
+            "area_name": "SearingGorge",
+            "area_name_zh": "\u707c\u71b1\u5cfd\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 84,
+          "map_id": 0,
+          "name": "\u75c5\u6728\u6797\u54e8\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2998.7099609375,
+            "y": -3050.10009765625,
+            "z": 117.19000244140625
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6987945519055238,
+            "y": 0.47910026302183395
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 87,
+          "map_id": 0,
+          "name": "\u7687\u51a0\u54e8\u5854\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 1857.56005859375,
+            "y": -3658.469970703125,
+            "z": 143.72999572753906
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6567627641604991,
+            "y": 0.4641677095575466
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 7,
+          "map_id": 0,
+          "name": "\u7c73\u5948\u5e0c\u723e\u6e2f\uff0c\u6fd5\u5730",
+          "position": {
+            "x": -3792.260009765625,
+            "y": -783.2899780273438,
+            "z": 9.0600004196167
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.44866386547669745,
+            "y": 0.5347395456431451
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 40,
+            "area_id": 11,
+            "area_name": "Wetlands",
+            "area_name_zh": "\u6fd5\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 78,
+          "map_id": 0,
+          "name": "\u7d0d\u514b\u85a9\u746a\u65af",
+          "position": {
+            "x": 3133.31005859375,
+            "y": -3399.929931640625,
+            "z": 139.52999877929688
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.7037522552918427,
+            "y": 0.470513623658494
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 67,
+          "map_id": 0,
+          "name": "\u8056\u5149\u4e4b\u9858\u79ae\u62dc\u5802\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2271.090087890625,
+            "y": -5340.7998046875,
+            "z": 87.11000061035156
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.671994248106562,
+            "y": 0.42287460596462473
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 68,
+          "map_id": 0,
+          "name": "\u8056\u5149\u4e4b\u9858\u79ae\u62dc\u5802\uff0c\u6771\u761f\u75ab\u4e4b\u5730",
+          "position": {
+            "x": 2327.409912109375,
+            "y": -5286.89013671875,
+            "z": 81.77999877929688
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.6740686669822397,
+            "y": 0.42419782894927655
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 23,
+            "area_id": 139,
+            "area_name": "EasternPlaguelands",
+            "area_name_zh": "\u6771\u761f\u75ab\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 17,
+          "map_id": 0,
+          "name": "\u843d\u9318\u93ae\uff0c\u963f\u62c9\u5e0c\u9ad8\u5730",
+          "position": {
+            "x": -916.2899780273438,
+            "y": -3496.889892578125,
+            "z": 70.44999694824219
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5545939993590223,
+            "y": 0.46813372310006696
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 16,
+            "area_id": 45,
+            "area_name": "Arathi",
+            "area_name_zh": "\u963f\u62c9\u5e0c\u9ad8\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 168,
+          "map_id": 0,
+          "name": "\u8584\u9727\u4e4b\u5730",
+          "position": {
+            "x": -9441.1796875,
+            "y": 65.05000305175781,
+            "z": 56.18000030517578
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.24059813073354896,
+            "y": 0.5555622107430984
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 30,
+            "area_id": 12,
+            "area_name": "Elwynn",
+            "area_name_zh": "\u827e\u723e\u6587\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 9,
+          "map_id": 0,
+          "name": "\u85cf\u5bf6\u6d77\u7063\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -14271.76953125,
+            "y": 299.8699951171875,
+            "z": 31.09000015258789
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.06267380494711035,
+            "y": 0.5613259118094238
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 18,
+          "map_id": 0,
+          "name": "\u85cf\u5bf6\u6d77\u7063\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -14444.2900390625,
+            "y": 509.6199951171875,
+            "z": 26.200000762939453
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.056319385294490036,
+            "y": 0.5664742651843994
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 19,
+          "map_id": 0,
+          "name": "\u85cf\u5bf6\u6d77\u7063\uff0c\u834a\u68d8\u8c37",
+          "position": {
+            "x": -14473.0498046875,
+            "y": 464.1499938964844,
+            "z": 36.43000030517578
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.055260081550202005,
+            "y": 0.5653581954144601
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 37,
+            "area_id": 33,
+            "area_name": "Stranglethorn",
+            "area_name_zh": "\u834a\u68d8\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 16,
+          "map_id": 0,
+          "name": "\u907f\u96e3\u8c37\u5730\uff0c\u963f\u62c9\u5e0c\u9ad8\u5730",
+          "position": {
+            "x": -1240.530029296875,
+            "y": -2515.110107421875,
+            "z": 22.15999984741211
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5426513185723822,
+            "y": 0.49223169339990896
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 16,
+            "area_id": 45,
+            "area_name": "Arathi",
+            "area_name_zh": "\u963f\u62c9\u5e0c\u9ad8\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 6,
+          "map_id": 0,
+          "name": "\u9435\u7210\u5821\uff0c\u4e39\u83ab\u6d1b",
+          "position": {
+            "x": -4821.77978515625,
+            "y": -1155.43994140625,
+            "z": 502.2099914550781
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.41074373194327746,
+            "y": 0.5256050544872033
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 341,
+            "area_id": 1537,
+            "area_name": "Ironforge",
+            "area_name_zh": "\u9435\u7210\u5821"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 43,
+          "map_id": 0,
+          "name": "\u9df9\u5de2\u5c71\uff0c\u8f9b\u7279\u862d",
+          "position": {
+            "x": 283.739990234375,
+            "y": -2002.760009765625,
+            "z": 194.74000549316406
+          },
+          "continent": "Azeroth",
+          "continent_zh": "\u6771\u90e8\u738b\u570b",
+          "normalized_position": {
+            "x": 0.5987945069435652,
+            "y": 0.5048074233376327
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 15,
+            "area_id": 36,
+            "area_name": "Alterac",
+            "area_name_zh": "\u5967\u7279\u862d\u514b\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        }
+      ]
+    },
+    "1": {
+      "all_nodes": [
+        {
+          "id": 30,
+          "map_id": 1,
+          "name": "\u4e82\u98a8\u5d17 \uff0c\u5343\u91dd\u77f3\u6797",
+          "position": {
+            "x": -5407.7099609375,
+            "y": -2414.300048828125,
+            "z": 90.31999969482422
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.257837941784644,
+            "y": 0.4706250013600295
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 61,
+            "area_id": 400,
+            "area_name": "ThousandNeedles",
+            "area_name_zh": "\u5343\u91dd\u77f3\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 181,
+          "map_id": 1,
+          "name": "\u4efb\u52d9 - \u5875\u6ce5 - \u52d8\u5bdf\u5967\u5361\u8332\u7d50\u675f",
+          "position": {
+            "x": -3822.7099609375,
+            "y": -4509.64990234375,
+            "z": 10.979999542236328
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.3224442706525281,
+            "y": 0.41368585351179255
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 141,
+            "area_id": 15,
+            "area_name": "Dustwallow",
+            "area_name_zh": "\u5875\u6ce5\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 180,
+          "map_id": 1,
+          "name": "\u4efb\u52d9 - \u5875\u6ce5 - \u52d8\u5bdf\u5967\u5361\u8332\u958b\u59cb",
+          "position": {
+            "x": -3822.659912109375,
+            "y": -4511.330078125,
+            "z": 10.84000015258789
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.3224463106973542,
+            "y": 0.41364019632616356
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 141,
+            "area_id": 15,
+            "area_name": "Dustwallow",
+            "area_name_zh": "\u5875\u6ce5\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 143,
+          "map_id": 1,
+          "name": "\u4efb\u52d9 - \u6642\u5149\u4e4b\u7a74(\u4ecb\u7d39\u98db\u884c\u8def\u7dda)(\u7d42\u9ede)",
+          "position": {
+            "x": -8360.73046875,
+            "y": -4327.72998046875,
+            "z": -208.3300018310547
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.13746960482480752,
+            "y": 0.41862935509974974
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 161,
+            "area_id": 440,
+            "area_name": "Tanaris",
+            "area_name_zh": "\u5854\u7d0d\u5229\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 144,
+          "map_id": 1,
+          "name": "\u4efb\u52d9 - \u6642\u5149\u4e4b\u7a74(\u4ecb\u7d39\u98db\u884c\u8def\u7dda)(\u8d77\u9ede)",
+          "position": {
+            "x": -8162.009765625,
+            "y": -4796.22998046875,
+            "z": 35.779998779296875
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.14556967744244217,
+            "y": 0.40589831129714016
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 161,
+            "area_id": 440,
+            "area_name": "Tanaris",
+            "area_name_zh": "\u5854\u7d0d\u5229\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 35,
+          "map_id": 1,
+          "name": "\u50b3\u9001\uff0c\u5967\u683c\u746a",
+          "position": {
+            "x": 1320.0699462890625,
+            "y": -4649.2001953125,
+            "z": 21.56999969482422
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.532069589252797,
+            "y": 0.4098937064628018
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 4,
+            "area_id": 14,
+            "area_name": "Durotar",
+            "area_name_zh": "\u675c\u6d1b\u5854"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 206,
+          "map_id": 1,
+          "name": "\u50b3\u9001\uff0c\u7fbd\u6708\u8981\u585e(\u6771\u5317\u65b9\u8239)",
+          "position": {
+            "x": -4348.009765625,
+            "y": 2427.2900390625,
+            "z": 6.639999866485596
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.301032477633048,
+            "y": 0.6021906267244179
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 121,
+            "area_id": 357,
+            "area_name": "Feralas",
+            "area_name_zh": "\u83f2\u62c9\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 34,
+          "map_id": 1,
+          "name": "\u50b3\u9001\uff0c\u85cf\u5bf6\u6d77\u7063",
+          "position": {
+            "x": -1965.1700439453125,
+            "y": -5824.2900390625,
+            "z": -1.059999942779541
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.39815962381493797,
+            "y": 0.37796175283893224
+          },
+          "node_kind": "special",
+          "usable_for_v1": false,
+          "zone_guess": {
+            "id": 11,
+            "area_id": 17,
+            "area_name": "Barrens",
+            "area_name_zh": "\u8ca7\u7620\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 65,
+          "map_id": 1,
+          "name": "\u523a\u679d\u6797\u5730\uff0c\u8cbb\u4f0d\u5fb7\u68ee\u6797",
+          "position": {
+            "x": 6205.8798828125,
+            "y": -1949.6300048828125,
+            "z": 571.2899780273438
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7312205315524877,
+            "y": 0.4832519697340493
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 39,
+          "map_id": 1,
+          "name": "\u52a0\u57fa\u68ee\uff0c\u5854\u7d0d\u5229\u65af",
+          "position": {
+            "x": -7223.97021484375,
+            "y": -3734.590087890625,
+            "z": 8.390000343322754
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.18380519271616821,
+            "y": 0.43474736994177166
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 161,
+            "area_id": 440,
+            "area_name": "Tanaris",
+            "area_name_zh": "\u5854\u7d0d\u5229\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 40,
+          "map_id": 1,
+          "name": "\u52a0\u57fa\u68ee\uff0c\u5854\u7d0d\u5229\u65af",
+          "position": {
+            "x": -7048.89013671875,
+            "y": -3780.360107421875,
+            "z": 10.1899995803833
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.1909416476723566,
+            "y": 0.43350361300794316
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 161,
+            "area_id": 440,
+            "area_name": "Tanaris",
+            "area_name_zh": "\u5854\u7d0d\u5229\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 25,
+          "map_id": 1,
+          "name": "\u5341\u5b57\u8def\u53e3\uff0c\u8ca7\u7620\u4e4b\u5730",
+          "position": {
+            "x": -441.79998779296875,
+            "y": -2596.080078125,
+            "z": 96.05999755859375
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.4602538489475976,
+            "y": 0.46568530122039625
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 9,
+            "area_id": 215,
+            "area_name": "Mulgore",
+            "area_name_zh": "\u83ab\u9ad8\u96f7"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 64,
+          "map_id": 1,
+          "name": "\u5854\u502b\u8fea\u65af\u71df\u5730\uff0c\u827e\u85a9\u62c9",
+          "position": {
+            "x": 2721.989990234375,
+            "y": -3880.639892578125,
+            "z": 100.87000274658203
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5892133794140649,
+            "y": 0.4307786048172484
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 181,
+            "area_id": 16,
+            "area_name": "Aszhara",
+            "area_name_zh": "\u827e\u85a9\u62c9"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 32,
+          "map_id": 1,
+          "name": "\u585e\u62c9\u6469\uff0c\u5875\u6ce5\u6cbc\u6fa4",
+          "position": {
+            "x": -3825.3701171875,
+            "y": -4516.580078125,
+            "z": 10.4399995803833
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.3223358397821638,
+            "y": 0.41349753254822613
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 141,
+            "area_id": 15,
+            "area_name": "Dustwallow",
+            "area_name_zh": "\u5875\u6ce5\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 72,
+          "map_id": 1,
+          "name": "\u585e\u7d0d\u91cc\u5967\u57ce\u5821\uff0c\u5e0c\u5229\u8607\u65af",
+          "position": {
+            "x": -6811.39013671875,
+            "y": 836.739990234375,
+            "z": 49.810001373291016
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.20062240672984716,
+            "y": 0.5589689354930973
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 261,
+            "area_id": 1377,
+            "area_name": "Silithus",
+            "area_name_zh": "\u5e0c\u5229\u8607\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 73,
+          "map_id": 1,
+          "name": "\u585e\u7d0d\u91cc\u5967\u57ce\u5821\uff0c\u5e0c\u5229\u8607\u65af",
+          "position": {
+            "x": -6761.830078125,
+            "y": 772.030029296875,
+            "z": 88.91000366210938
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2026425287766733,
+            "y": 0.5572105035888061
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 261,
+            "area_id": 1377,
+            "area_name": "Silithus",
+            "area_name_zh": "\u5e0c\u5229\u8607\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 26,
+          "map_id": 1,
+          "name": "\u5967\u4f2f\u4e01\uff0c\u9ed1\u6d77\u5cb8",
+          "position": {
+            "x": 6341.3798828125,
+            "y": 557.6799926757812,
+            "z": 16.290000915527344
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7367436593516034,
+            "y": 0.5513857443458731
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 23,
+          "map_id": 1,
+          "name": "\u5967\u683c\u746a\uff0c\u675c\u6d1b\u5854",
+          "position": {
+            "x": 1677.5899658203125,
+            "y": -4315.7099609375,
+            "z": 61.16999816894531
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5466424952204237,
+            "y": 0.4189559877468374
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 321,
+            "area_id": 1637,
+            "area_name": "Ogrimmar",
+            "area_name_zh": "\u5967\u683c\u746a"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 37,
+          "map_id": 1,
+          "name": "\u5c3c\u8036\u723e\u524d\u54e8\u7ad9\uff0c\u6dd2\u6dbc\u4e4b\u5730",
+          "position": {
+            "x": 139.24000549316406,
+            "y": 1325.8199462890625,
+            "z": 193.5
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.48393767285399325,
+            "y": 0.5722592201110496
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 101,
+            "area_id": 405,
+            "area_name": "Desolace",
+            "area_name_zh": "\u6dd2\u6dbc\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 58,
+          "map_id": 1,
+          "name": "\u5de6\u62c9\u59c6\u52a0\u524d\u54e8\u7ad9\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 3374.7099609375,
+            "y": 996.969970703125,
+            "z": 5.190000057220459
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.61581895738623,
+            "y": 0.5633230334650055
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 49,
+          "map_id": 1,
+          "name": "\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7458.4501953125,
+            "y": -2487.2099609375,
+            "z": 462.3299865722656
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7822766637540798,
+            "y": 0.4686437435484844
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 69,
+          "map_id": 1,
+          "name": "\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7470.39013671875,
+            "y": -2123.3798828125,
+            "z": 492.3399963378906
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.782763348789509,
+            "y": 0.47853048135278803
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 167,
+          "map_id": 1,
+          "name": "\u6797\u6b4c\u795e\u6bbf\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 3000.25,
+            "y": -3202.409912109375,
+            "z": 189.77000427246094
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.6005555609293322,
+            "y": 0.44920886221231926
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 43,
+            "area_id": 331,
+            "area_name": "Ashenvale",
+            "area_name_zh": "\u68a3\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 80,
+          "map_id": 1,
+          "name": "\u68d8\u9f52\u57ce\uff0c\u8ca7\u7620\u4e4b\u5730",
+          "position": {
+            "x": -894.5900268554688,
+            "y": -3773.010009765625,
+            "z": 11.479999542236328
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.44179763306635217,
+            "y": 0.43370334495077173
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 4,
+            "area_id": 14,
+            "area_name": "Durotar",
+            "area_name_zh": "\u675c\u6d1b\u5854"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 62,
+          "map_id": 1,
+          "name": "\u6c38\u591c\u6e2f\uff0c\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7793.60986328125,
+            "y": -2403.469970703125,
+            "z": 489.32000732421875
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7959381374020544,
+            "y": 0.47091929847634767
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 63,
+          "map_id": 1,
+          "name": "\u6c38\u591c\u6e2f\uff0c\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7787.72021484375,
+            "y": -2404.10009765625,
+            "z": 489.55999755859375
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7956980689074997,
+            "y": 0.47090217537316426
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 52,
+          "map_id": 1,
+          "name": "\u6c38\u671b\u93ae\uff0c\u51ac\u6cc9\u8c37",
+          "position": {
+            "x": 6796.7998046875,
+            "y": -4742.39013671875,
+            "z": 701.5
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7553070721248792,
+            "y": 0.4073613580615092
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 281,
+            "area_id": 618,
+            "area_name": "Winterspring",
+            "area_name_zh": "\u51ac\u6cc9\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 53,
+          "map_id": 1,
+          "name": "\u6c38\u671b\u93ae\uff0c\u51ac\u6cc9\u8c37",
+          "position": {
+            "x": 6813.06005859375,
+            "y": -4611.1201171875,
+            "z": 710.6699829101562
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7559698578102688,
+            "y": 0.4109284965217478
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 281,
+            "area_id": 618,
+            "area_name": "Winterspring",
+            "area_name_zh": "\u51ac\u6cc9\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 179,
+          "map_id": 1,
+          "name": "\u6ce5\u93c8\u71df\u5730\uff0c\u5875\u6ce5\u6cbc\u6fa4",
+          "position": {
+            "x": -4566.22998046875,
+            "y": -3226.050048828125,
+            "z": 34.70000076293945
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2921375836483063,
+            "y": 0.448566463885604
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 61,
+            "area_id": 400,
+            "area_name": "ThousandNeedles",
+            "area_name_zh": "\u5343\u91dd\u77f3\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 29,
+          "map_id": 1,
+          "name": "\u70c8\u65e5\u77f3\u5c45\uff0c\u77f3\u722a\u5c71",
+          "position": {
+            "x": 966.5700073242188,
+            "y": 1040.3199462890625,
+            "z": 104.2699966430664
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5176605461540339,
+            "y": 0.5645010279965457
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 81,
+            "area_id": 406,
+            "area_name": "StonetalonMountains",
+            "area_name_zh": "\u77f3\u722a\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 44,
+          "map_id": 1,
+          "name": "\u74e6\u7f85\u83ab\u514b\uff0c\u827e\u85a9\u62c9",
+          "position": {
+            "x": 3661.52001953125,
+            "y": -4390.3798828125,
+            "z": 113.05000305175781
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.6275096482178547,
+            "y": 0.4169269033367455
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 181,
+            "area_id": 16,
+            "area_name": "Aszhara",
+            "area_name_zh": "\u827e\u85a9\u62c9"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 33,
+          "map_id": 1,
+          "name": "\u77f3\u722a\u5cf0\uff0c\u77f3\u722a\u5c71",
+          "position": {
+            "x": 2681.1298828125,
+            "y": 1461.6800537109375,
+            "z": 232.8800048828125
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.587547876866636,
+            "y": 0.5759510898626293
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 81,
+            "area_id": 406,
+            "area_name": "StonetalonMountains",
+            "area_name_zh": "\u77f3\u722a\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 61,
+          "map_id": 1,
+          "name": "\u788e\u6728\u5d17\u54e8\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 2302.389892578125,
+            "y": -2524.550048828125,
+            "z": 104.4000015258789
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5721100217470769,
+            "y": 0.4676290620233428
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 43,
+            "area_id": 331,
+            "area_name": "Ashenvale",
+            "area_name_zh": "\u68a3\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 41,
+          "map_id": 1,
+          "name": "\u7fbd\u6708\u8981\u585e\uff0c\u83f2\u62c9\u65af",
+          "position": {
+            "x": -4373.7998046875,
+            "y": 3338.64990234375,
+            "z": 12.270000457763672
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2999812475099014,
+            "y": 0.6269559678970409
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 121,
+            "area_id": 357,
+            "area_name": "Feralas",
+            "area_name_zh": "\u83f2\u62c9\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 166,
+          "map_id": 1,
+          "name": "\u7fe1\u7fe0\u8056\u5730\uff0c\u8cbb\u4f0d\u5fb7\u68ee\u6797",
+          "position": {
+            "x": 3978.739990234375,
+            "y": -1316.4200439453125,
+            "z": 250.11000061035156
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.640439880237228,
+            "y": 0.5004588507349971
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 42,
+          "map_id": 1,
+          "name": "\u83ab\u6c99\u5fb9\u71df\u5730\uff0c\u83f2\u62c9\u65af",
+          "position": {
+            "x": -4419.85986328125,
+            "y": 199.30999755859375,
+            "z": 25.059999465942383
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2981037892807646,
+            "y": 0.541647379126283
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 121,
+            "area_id": 357,
+            "area_name": "Feralas",
+            "area_name_zh": "\u83f2\u62c9\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 54,
+          "map_id": 1,
+          "name": "\u83f2\u62c9\u65af\uff0c\u7fbd\u6708\u8981\u585e",
+          "position": {
+            "x": -4203.8701171875,
+            "y": 3284.0,
+            "z": -12.859999656677246
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.30690776692633154,
+            "y": 0.6254709085575604
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 121,
+            "area_id": 357,
+            "area_name": "Feralas",
+            "area_name_zh": "\u83f2\u62c9\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 38,
+          "map_id": 1,
+          "name": "\u846c\u5f71\u6751\uff0c\u6dd2\u6dbc\u4e4b\u5730",
+          "position": {
+            "x": -1767.6400146484375,
+            "y": 3263.889892578125,
+            "z": 4.940000057220459
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.40621116326858886,
+            "y": 0.6249244354338399
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 101,
+            "area_id": 405,
+            "area_name": "Desolace",
+            "area_name_zh": "\u6dd2\u6dbc\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 55,
+          "map_id": 1,
+          "name": "\u8568\u7246\u6751\uff0c\u5875\u6ce5\u6cbc\u6fa4",
+          "position": {
+            "x": -3147.389892578125,
+            "y": -2842.179931640625,
+            "z": 34.61000061035156
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.349971053256634,
+            "y": 0.45899777077232107
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 9,
+            "area_id": 215,
+            "area_name": "Mulgore",
+            "area_name_zh": "\u83ab\u9ad8\u96f7"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 31,
+          "map_id": 1,
+          "name": "\u85a9\u862d\u7d0d\u723e\uff0c\u5343\u91dd\u77f3\u6797",
+          "position": {
+            "x": -4491.8798828125,
+            "y": -775.8900146484375,
+            "z": -39.52000045776367
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2951681747275107,
+            "y": 0.5151472423670235
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 61,
+            "area_id": 400,
+            "area_name": "ThousandNeedles",
+            "area_name_zh": "\u5343\u91dd\u77f3\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 48,
+          "map_id": 1,
+          "name": "\u8840\u6bd2\u6cb3\uff0c\u8cbb\u4f0d\u5fb7\u68ee\u6797",
+          "position": {
+            "x": 5068.39990234375,
+            "y": -337.2200012207031,
+            "z": 367.4100036621094
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.6848556068213845,
+            "y": 0.5270676845353048
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 57,
+          "map_id": 1,
+          "name": "\u91e3\u9b5a\u6751\uff0c\u6cf0\u9054\u5e0c\u723e",
+          "position": {
+            "x": 8701.509765625,
+            "y": 991.3699951171875,
+            "z": 14.210000038146973
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.8329451277300924,
+            "y": 0.5631708594319679
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 41,
+            "area_id": 141,
+            "area_name": "Teldrassil",
+            "area_name_zh": "\u6cf0\u9054\u5e0c\u723e"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 28,
+          "map_id": 1,
+          "name": "\u963f\u65af\u7279\u862d\u7d0d\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 2827.340087890625,
+            "y": -289.239990234375,
+            "z": 107.16000366210938
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5935075643070892,
+            "y": 0.5283714958939316
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 81,
+            "area_id": 406,
+            "area_name": "StonetalonMountains",
+            "area_name_zh": "\u77f3\u722a\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 77,
+          "map_id": 1,
+          "name": "\u9676\u62c9\u7956\u71df\u5730\uff0c\u8ca7\u7620\u4e4b\u5730",
+          "position": {
+            "x": -2380.669921875,
+            "y": -1882.6700439453125,
+            "z": 95.8499984741211
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.3812233955763947,
+            "y": 0.4850715432574567
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 9,
+            "area_id": 215,
+            "area_name": "Mulgore",
+            "area_name_zh": "\u83ab\u9ad8\u96f7"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 22,
+          "map_id": 1,
+          "name": "\u96f7\u9706\u5d16\uff0c\u83ab\u9ad8\u96f7",
+          "position": {
+            "x": -1197.2099609375,
+            "y": 29.709999084472656,
+            "z": 176.9499969482422
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.42946251446491296,
+            "y": 0.5370386597890439
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 362,
+            "area_id": 1638,
+            "area_name": "ThunderBluff",
+            "area_name_zh": "\u96f7\u9706\u5d16"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 79,
+          "map_id": 1,
+          "name": "\u99ac\u7d39\u723e\u71df\u5730\uff0c\u5b89\u6208\u6d1b\u74b0\u5f62\u5c71",
+          "position": {
+            "x": -6113.81982421875,
+            "y": -1142.699951171875,
+            "z": -187.6300048828125
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2290561335549877,
+            "y": 0.5051795297328456
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 201,
+            "area_id": 490,
+            "area_name": "UngoroCrater",
+            "area_name_zh": "\u5b89\u6208\u6d1b\u74b0\u5f62\u5c71"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 27,
+          "map_id": 1,
+          "name": "\u9b6f\u745f\u862d\u6751\uff0c\u6cf0\u9054\u5e0c\u723e",
+          "position": {
+            "x": 8643.58984375,
+            "y": 841.0499877929688,
+            "z": 23.299999237060547
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.8305842485372481,
+            "y": 0.5590860555949279
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 41,
+            "area_id": 141,
+            "area_name": "Teldrassil",
+            "area_name_zh": "\u6cf0\u9054\u5e0c\u723e"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        }
+      ],
+      "usable_nodes": [
+        {
+          "id": 30,
+          "map_id": 1,
+          "name": "\u4e82\u98a8\u5d17 \uff0c\u5343\u91dd\u77f3\u6797",
+          "position": {
+            "x": -5407.7099609375,
+            "y": -2414.300048828125,
+            "z": 90.31999969482422
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.257837941784644,
+            "y": 0.4706250013600295
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 61,
+            "area_id": 400,
+            "area_name": "ThousandNeedles",
+            "area_name_zh": "\u5343\u91dd\u77f3\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 65,
+          "map_id": 1,
+          "name": "\u523a\u679d\u6797\u5730\uff0c\u8cbb\u4f0d\u5fb7\u68ee\u6797",
+          "position": {
+            "x": 6205.8798828125,
+            "y": -1949.6300048828125,
+            "z": 571.2899780273438
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7312205315524877,
+            "y": 0.4832519697340493
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 39,
+          "map_id": 1,
+          "name": "\u52a0\u57fa\u68ee\uff0c\u5854\u7d0d\u5229\u65af",
+          "position": {
+            "x": -7223.97021484375,
+            "y": -3734.590087890625,
+            "z": 8.390000343322754
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.18380519271616821,
+            "y": 0.43474736994177166
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 161,
+            "area_id": 440,
+            "area_name": "Tanaris",
+            "area_name_zh": "\u5854\u7d0d\u5229\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 40,
+          "map_id": 1,
+          "name": "\u52a0\u57fa\u68ee\uff0c\u5854\u7d0d\u5229\u65af",
+          "position": {
+            "x": -7048.89013671875,
+            "y": -3780.360107421875,
+            "z": 10.1899995803833
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.1909416476723566,
+            "y": 0.43350361300794316
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 161,
+            "area_id": 440,
+            "area_name": "Tanaris",
+            "area_name_zh": "\u5854\u7d0d\u5229\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 25,
+          "map_id": 1,
+          "name": "\u5341\u5b57\u8def\u53e3\uff0c\u8ca7\u7620\u4e4b\u5730",
+          "position": {
+            "x": -441.79998779296875,
+            "y": -2596.080078125,
+            "z": 96.05999755859375
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.4602538489475976,
+            "y": 0.46568530122039625
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 9,
+            "area_id": 215,
+            "area_name": "Mulgore",
+            "area_name_zh": "\u83ab\u9ad8\u96f7"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 64,
+          "map_id": 1,
+          "name": "\u5854\u502b\u8fea\u65af\u71df\u5730\uff0c\u827e\u85a9\u62c9",
+          "position": {
+            "x": 2721.989990234375,
+            "y": -3880.639892578125,
+            "z": 100.87000274658203
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5892133794140649,
+            "y": 0.4307786048172484
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 181,
+            "area_id": 16,
+            "area_name": "Aszhara",
+            "area_name_zh": "\u827e\u85a9\u62c9"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 32,
+          "map_id": 1,
+          "name": "\u585e\u62c9\u6469\uff0c\u5875\u6ce5\u6cbc\u6fa4",
+          "position": {
+            "x": -3825.3701171875,
+            "y": -4516.580078125,
+            "z": 10.4399995803833
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.3223358397821638,
+            "y": 0.41349753254822613
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 141,
+            "area_id": 15,
+            "area_name": "Dustwallow",
+            "area_name_zh": "\u5875\u6ce5\u6cbc\u6fa4"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 72,
+          "map_id": 1,
+          "name": "\u585e\u7d0d\u91cc\u5967\u57ce\u5821\uff0c\u5e0c\u5229\u8607\u65af",
+          "position": {
+            "x": -6811.39013671875,
+            "y": 836.739990234375,
+            "z": 49.810001373291016
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.20062240672984716,
+            "y": 0.5589689354930973
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 261,
+            "area_id": 1377,
+            "area_name": "Silithus",
+            "area_name_zh": "\u5e0c\u5229\u8607\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 73,
+          "map_id": 1,
+          "name": "\u585e\u7d0d\u91cc\u5967\u57ce\u5821\uff0c\u5e0c\u5229\u8607\u65af",
+          "position": {
+            "x": -6761.830078125,
+            "y": 772.030029296875,
+            "z": 88.91000366210938
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2026425287766733,
+            "y": 0.5572105035888061
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 261,
+            "area_id": 1377,
+            "area_name": "Silithus",
+            "area_name_zh": "\u5e0c\u5229\u8607\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 26,
+          "map_id": 1,
+          "name": "\u5967\u4f2f\u4e01\uff0c\u9ed1\u6d77\u5cb8",
+          "position": {
+            "x": 6341.3798828125,
+            "y": 557.6799926757812,
+            "z": 16.290000915527344
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7367436593516034,
+            "y": 0.5513857443458731
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 23,
+          "map_id": 1,
+          "name": "\u5967\u683c\u746a\uff0c\u675c\u6d1b\u5854",
+          "position": {
+            "x": 1677.5899658203125,
+            "y": -4315.7099609375,
+            "z": 61.16999816894531
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5466424952204237,
+            "y": 0.4189559877468374
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 321,
+            "area_id": 1637,
+            "area_name": "Ogrimmar",
+            "area_name_zh": "\u5967\u683c\u746a"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 37,
+          "map_id": 1,
+          "name": "\u5c3c\u8036\u723e\u524d\u54e8\u7ad9\uff0c\u6dd2\u6dbc\u4e4b\u5730",
+          "position": {
+            "x": 139.24000549316406,
+            "y": 1325.8199462890625,
+            "z": 193.5
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.48393767285399325,
+            "y": 0.5722592201110496
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 101,
+            "area_id": 405,
+            "area_name": "Desolace",
+            "area_name_zh": "\u6dd2\u6dbc\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 58,
+          "map_id": 1,
+          "name": "\u5de6\u62c9\u59c6\u52a0\u524d\u54e8\u7ad9\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 3374.7099609375,
+            "y": 996.969970703125,
+            "z": 5.190000057220459
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.61581895738623,
+            "y": 0.5633230334650055
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 49,
+          "map_id": 1,
+          "name": "\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7458.4501953125,
+            "y": -2487.2099609375,
+            "z": 462.3299865722656
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7822766637540798,
+            "y": 0.4686437435484844
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 69,
+          "map_id": 1,
+          "name": "\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7470.39013671875,
+            "y": -2123.3798828125,
+            "z": 492.3399963378906
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.782763348789509,
+            "y": 0.47853048135278803
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 167,
+          "map_id": 1,
+          "name": "\u6797\u6b4c\u795e\u6bbf\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 3000.25,
+            "y": -3202.409912109375,
+            "z": 189.77000427246094
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.6005555609293322,
+            "y": 0.44920886221231926
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 43,
+            "area_id": 331,
+            "area_name": "Ashenvale",
+            "area_name_zh": "\u68a3\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 80,
+          "map_id": 1,
+          "name": "\u68d8\u9f52\u57ce\uff0c\u8ca7\u7620\u4e4b\u5730",
+          "position": {
+            "x": -894.5900268554688,
+            "y": -3773.010009765625,
+            "z": 11.479999542236328
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.44179763306635217,
+            "y": 0.43370334495077173
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 4,
+            "area_id": 14,
+            "area_name": "Durotar",
+            "area_name_zh": "\u675c\u6d1b\u5854"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 62,
+          "map_id": 1,
+          "name": "\u6c38\u591c\u6e2f\uff0c\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7793.60986328125,
+            "y": -2403.469970703125,
+            "z": 489.32000732421875
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7959381374020544,
+            "y": 0.47091929847634767
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 63,
+          "map_id": 1,
+          "name": "\u6c38\u591c\u6e2f\uff0c\u6708\u5149\u6797\u5730",
+          "position": {
+            "x": 7787.72021484375,
+            "y": -2404.10009765625,
+            "z": 489.55999755859375
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7956980689074997,
+            "y": 0.47090217537316426
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 241,
+            "area_id": 493,
+            "area_name": "Moonglade",
+            "area_name_zh": "\u6708\u5149\u6797\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 52,
+          "map_id": 1,
+          "name": "\u6c38\u671b\u93ae\uff0c\u51ac\u6cc9\u8c37",
+          "position": {
+            "x": 6796.7998046875,
+            "y": -4742.39013671875,
+            "z": 701.5
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7553070721248792,
+            "y": 0.4073613580615092
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 281,
+            "area_id": 618,
+            "area_name": "Winterspring",
+            "area_name_zh": "\u51ac\u6cc9\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 53,
+          "map_id": 1,
+          "name": "\u6c38\u671b\u93ae\uff0c\u51ac\u6cc9\u8c37",
+          "position": {
+            "x": 6813.06005859375,
+            "y": -4611.1201171875,
+            "z": 710.6699829101562
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.7559698578102688,
+            "y": 0.4109284965217478
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 281,
+            "area_id": 618,
+            "area_name": "Winterspring",
+            "area_name_zh": "\u51ac\u6cc9\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 179,
+          "map_id": 1,
+          "name": "\u6ce5\u93c8\u71df\u5730\uff0c\u5875\u6ce5\u6cbc\u6fa4",
+          "position": {
+            "x": -4566.22998046875,
+            "y": -3226.050048828125,
+            "z": 34.70000076293945
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2921375836483063,
+            "y": 0.448566463885604
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 61,
+            "area_id": 400,
+            "area_name": "ThousandNeedles",
+            "area_name_zh": "\u5343\u91dd\u77f3\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 29,
+          "map_id": 1,
+          "name": "\u70c8\u65e5\u77f3\u5c45\uff0c\u77f3\u722a\u5c71",
+          "position": {
+            "x": 966.5700073242188,
+            "y": 1040.3199462890625,
+            "z": 104.2699966430664
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5176605461540339,
+            "y": 0.5645010279965457
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 81,
+            "area_id": 406,
+            "area_name": "StonetalonMountains",
+            "area_name_zh": "\u77f3\u722a\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 44,
+          "map_id": 1,
+          "name": "\u74e6\u7f85\u83ab\u514b\uff0c\u827e\u85a9\u62c9",
+          "position": {
+            "x": 3661.52001953125,
+            "y": -4390.3798828125,
+            "z": 113.05000305175781
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.6275096482178547,
+            "y": 0.4169269033367455
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 181,
+            "area_id": 16,
+            "area_name": "Aszhara",
+            "area_name_zh": "\u827e\u85a9\u62c9"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 33,
+          "map_id": 1,
+          "name": "\u77f3\u722a\u5cf0\uff0c\u77f3\u722a\u5c71",
+          "position": {
+            "x": 2681.1298828125,
+            "y": 1461.6800537109375,
+            "z": 232.8800048828125
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.587547876866636,
+            "y": 0.5759510898626293
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 81,
+            "area_id": 406,
+            "area_name": "StonetalonMountains",
+            "area_name_zh": "\u77f3\u722a\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 61,
+          "map_id": 1,
+          "name": "\u788e\u6728\u5d17\u54e8\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 2302.389892578125,
+            "y": -2524.550048828125,
+            "z": 104.4000015258789
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5721100217470769,
+            "y": 0.4676290620233428
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 43,
+            "area_id": 331,
+            "area_name": "Ashenvale",
+            "area_name_zh": "\u68a3\u8c37"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 41,
+          "map_id": 1,
+          "name": "\u7fbd\u6708\u8981\u585e\uff0c\u83f2\u62c9\u65af",
+          "position": {
+            "x": -4373.7998046875,
+            "y": 3338.64990234375,
+            "z": 12.270000457763672
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2999812475099014,
+            "y": 0.6269559678970409
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 121,
+            "area_id": 357,
+            "area_name": "Feralas",
+            "area_name_zh": "\u83f2\u62c9\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 166,
+          "map_id": 1,
+          "name": "\u7fe1\u7fe0\u8056\u5730\uff0c\u8cbb\u4f0d\u5fb7\u68ee\u6797",
+          "position": {
+            "x": 3978.739990234375,
+            "y": -1316.4200439453125,
+            "z": 250.11000061035156
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.640439880237228,
+            "y": 0.5004588507349971
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 42,
+          "map_id": 1,
+          "name": "\u83ab\u6c99\u5fb9\u71df\u5730\uff0c\u83f2\u62c9\u65af",
+          "position": {
+            "x": -4419.85986328125,
+            "y": 199.30999755859375,
+            "z": 25.059999465942383
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2981037892807646,
+            "y": 0.541647379126283
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 121,
+            "area_id": 357,
+            "area_name": "Feralas",
+            "area_name_zh": "\u83f2\u62c9\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 54,
+          "map_id": 1,
+          "name": "\u83f2\u62c9\u65af\uff0c\u7fbd\u6708\u8981\u585e",
+          "position": {
+            "x": -4203.8701171875,
+            "y": 3284.0,
+            "z": -12.859999656677246
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.30690776692633154,
+            "y": 0.6254709085575604
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 121,
+            "area_id": 357,
+            "area_name": "Feralas",
+            "area_name_zh": "\u83f2\u62c9\u65af"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 38,
+          "map_id": 1,
+          "name": "\u846c\u5f71\u6751\uff0c\u6dd2\u6dbc\u4e4b\u5730",
+          "position": {
+            "x": -1767.6400146484375,
+            "y": 3263.889892578125,
+            "z": 4.940000057220459
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.40621116326858886,
+            "y": 0.6249244354338399
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 101,
+            "area_id": 405,
+            "area_name": "Desolace",
+            "area_name_zh": "\u6dd2\u6dbc\u4e4b\u5730"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 55,
+          "map_id": 1,
+          "name": "\u8568\u7246\u6751\uff0c\u5875\u6ce5\u6cbc\u6fa4",
+          "position": {
+            "x": -3147.389892578125,
+            "y": -2842.179931640625,
+            "z": 34.61000061035156
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.349971053256634,
+            "y": 0.45899777077232107
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 9,
+            "area_id": 215,
+            "area_name": "Mulgore",
+            "area_name_zh": "\u83ab\u9ad8\u96f7"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 31,
+          "map_id": 1,
+          "name": "\u85a9\u862d\u7d0d\u723e\uff0c\u5343\u91dd\u77f3\u6797",
+          "position": {
+            "x": -4491.8798828125,
+            "y": -775.8900146484375,
+            "z": -39.52000045776367
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2951681747275107,
+            "y": 0.5151472423670235
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 61,
+            "area_id": 400,
+            "area_name": "ThousandNeedles",
+            "area_name_zh": "\u5343\u91dd\u77f3\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 48,
+          "map_id": 1,
+          "name": "\u8840\u6bd2\u6cb3\uff0c\u8cbb\u4f0d\u5fb7\u68ee\u6797",
+          "position": {
+            "x": 5068.39990234375,
+            "y": -337.2200012207031,
+            "z": 367.4100036621094
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.6848556068213845,
+            "y": 0.5270676845353048
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 182,
+            "area_id": 361,
+            "area_name": "Felwood",
+            "area_name_zh": "\u8cbb\u4f0d\u5fb7\u68ee\u6797"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 57,
+          "map_id": 1,
+          "name": "\u91e3\u9b5a\u6751\uff0c\u6cf0\u9054\u5e0c\u723e",
+          "position": {
+            "x": 8701.509765625,
+            "y": 991.3699951171875,
+            "z": 14.210000038146973
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.8329451277300924,
+            "y": 0.5631708594319679
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 41,
+            "area_id": 141,
+            "area_name": "Teldrassil",
+            "area_name_zh": "\u6cf0\u9054\u5e0c\u723e"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 28,
+          "map_id": 1,
+          "name": "\u963f\u65af\u7279\u862d\u7d0d\uff0c\u68a3\u8c37",
+          "position": {
+            "x": 2827.340087890625,
+            "y": -289.239990234375,
+            "z": 107.16000366210938
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.5935075643070892,
+            "y": 0.5283714958939316
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 81,
+            "area_id": 406,
+            "area_name": "StonetalonMountains",
+            "area_name_zh": "\u77f3\u722a\u5c71\u8108"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 77,
+          "map_id": 1,
+          "name": "\u9676\u62c9\u7956\u71df\u5730\uff0c\u8ca7\u7620\u4e4b\u5730",
+          "position": {
+            "x": -2380.669921875,
+            "y": -1882.6700439453125,
+            "z": 95.8499984741211
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.3812233955763947,
+            "y": 0.4850715432574567
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 9,
+            "area_id": 215,
+            "area_name": "Mulgore",
+            "area_name_zh": "\u83ab\u9ad8\u96f7"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 22,
+          "map_id": 1,
+          "name": "\u96f7\u9706\u5d16\uff0c\u83ab\u9ad8\u96f7",
+          "position": {
+            "x": -1197.2099609375,
+            "y": 29.709999084472656,
+            "z": 176.9499969482422
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.42946251446491296,
+            "y": 0.5370386597890439
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 362,
+            "area_id": 1638,
+            "area_name": "ThunderBluff",
+            "area_name_zh": "\u96f7\u9706\u5d16"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 79,
+          "map_id": 1,
+          "name": "\u99ac\u7d39\u723e\u71df\u5730\uff0c\u5b89\u6208\u6d1b\u74b0\u5f62\u5c71",
+          "position": {
+            "x": -6113.81982421875,
+            "y": -1142.699951171875,
+            "z": -187.6300048828125
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.2290561335549877,
+            "y": 0.5051795297328456
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 201,
+            "area_id": 490,
+            "area_name": "UngoroCrater",
+            "area_name_zh": "\u5b89\u6208\u6d1b\u74b0\u5f62\u5c71"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        },
+        {
+          "id": 27,
+          "map_id": 1,
+          "name": "\u9b6f\u745f\u862d\u6751\uff0c\u6cf0\u9054\u5e0c\u723e",
+          "position": {
+            "x": 8643.58984375,
+            "y": 841.0499877929688,
+            "z": 23.299999237060547
+          },
+          "continent": "Kalimdor",
+          "continent_zh": "\u5361\u6797\u591a",
+          "normalized_position": {
+            "x": 0.8305842485372481,
+            "y": 0.5590860555949279
+          },
+          "node_kind": "flight_master",
+          "usable_for_v1": true,
+          "zone_guess": {
+            "id": 41,
+            "area_id": 141,
+            "area_name": "Teldrassil",
+            "area_name_zh": "\u6cf0\u9054\u5e0c\u723e"
+          },
+          "raw_fields": {
+            "field_11": 0,
+            "field_12": 0,
+            "field_13": 0
+          }
+        }
+      ]
+    }
+  },
+  "notes": [
+    "Coordinates come directly from TaxiNodes.dbc.",
+    "Zone assignment is a rectangle-based guess derived from WorldMapArea.dbc.",
+    "Normalized positions are continent-local and range from 0 to 1."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "map_name": "Azeroth",
+  "wdt_version": 18,
+  "wdl_version": 18,
+  "existing_tile_count": 687,
+  "wdl_tile_count": 687,
+  "tile_bounds": {
+    "min_tile_x": 24,
+    "max_tile_x": 44,
+    "min_tile_y": 20,
+    "max_tile_y": 61
+  },
+  "world_bounds_estimate": {
+    "top_left": {
+      "x": 6399.999599999999,
+      "y": 4266.6664
+    },
+    "bottom_right": {
+      "x": -15999.999000000003,
+      "y": -6933.332900000001
+    },
+    "tile_size": 533.3333
+  },
+  "height_range": {
+    "min": -534,
+    "max": 896
+  },
+  "notes": [
+    "This preview is based on WDL low-resolution continent terrain data.",
+    "Dense sampling is reconstructed from the 17x17 outer grid and 16x16 inner grid.",
+    "The land mask currently uses height > 0 as an experimental land/water split.",
+    "Raw orientation follows client world data, not the corrected in-game display orientation."
+  ],
+  "assets": {
+    "height_image": "./data/derived/terrain/azeroth_wdl_tile_height.png",
+    "land_mask_image": "./data/derived/terrain/azeroth_wdl_tile_land_mask.png",
+    "terrain_image": "./data/derived/terrain/azeroth_wdl_terrain.png",
+    "continent_base_image": "./data/derived/terrain/azeroth_continent_base.png"
+  }
+}

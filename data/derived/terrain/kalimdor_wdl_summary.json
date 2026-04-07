@@ -1,0 +1,40 @@
+{
+  "map_name": "Kalimdor",
+  "wdt_version": 18,
+  "wdl_version": 18,
+  "existing_tile_count": 988,
+  "wdl_tile_count": 988,
+  "tile_bounds": {
+    "min_tile_x": 0,
+    "max_tile_x": 48,
+    "min_tile_y": 0,
+    "max_tile_y": 55
+  },
+  "world_bounds_estimate": {
+    "top_left": {
+      "x": 17066.6656,
+      "y": 17066.6656
+    },
+    "bottom_right": {
+      "x": -12799.999199999998,
+      "y": -9066.666099999999
+    },
+    "tile_size": 533.3333
+  },
+  "height_range": {
+    "min": -548,
+    "max": 1969
+  },
+  "notes": [
+    "This preview is based on WDL low-resolution continent terrain data.",
+    "Dense sampling is reconstructed from the 17x17 outer grid and 16x16 inner grid.",
+    "The land mask currently uses height > 0 as an experimental land/water split.",
+    "Raw orientation follows client world data, not the corrected in-game display orientation."
+  ],
+  "assets": {
+    "height_image": "./data/derived/terrain/kalimdor_wdl_tile_height.png",
+    "land_mask_image": "./data/derived/terrain/kalimdor_wdl_tile_land_mask.png",
+    "terrain_image": "./data/derived/terrain/kalimdor_wdl_terrain.png",
+    "continent_base_image": "./data/derived/terrain/kalimdor_continent_base.png"
+  }
+}

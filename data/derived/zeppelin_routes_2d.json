@@ -1,0 +1,76 @@
+{
+  "source": "data\\derived\\taxi_nodes_2d.json",
+  "routes": [
+    {
+      "id": "zeppelin-orgrimmar-undercity",
+      "mode": "zeppelin",
+      "name": "Orgrimmar - Undercity Zeppelin",
+      "line_name_zh": "奧格瑪 - 幽暗城 飛艇",
+      "line_name_en": "Orgrimmar - Undercity Zeppelin",
+      "faction": "horde",
+      "from_node_id": 23,
+      "to_node_id": 11,
+      "from_name": "奧格瑪",
+      "to_name": "幽暗城",
+      "price": 0,
+      "point_count": 2,
+      "distance_3d": 4586.160560011567,
+      "polyline": [
+        {
+          "map_id": 1,
+          "position": {
+            "x": 1677.5899658203125,
+            "y": -4315.7099609375,
+            "z": 61.16999816894531
+          }
+        },
+        {
+          "map_id": 0,
+          "position": {
+            "x": 1568.6199951171875,
+            "y": 267.9700012207031,
+            "z": -43.099998474121094
+          }
+        }
+      ]
+    },
+    {
+      "id": "zeppelin-orgrimmar-gromgol",
+      "mode": "zeppelin",
+      "name": "Orgrimmar - Grom'gol Zeppelin",
+      "line_name_zh": "奧格瑪 - 格羅姆高 飛艇",
+      "line_name_en": "Orgrimmar - Grom'gol Zeppelin",
+      "faction": "horde",
+      "from_node_id": 23,
+      "to_node_id": 20,
+      "from_name": "奧格瑪",
+      "to_name": "格羅姆高",
+      "price": 0,
+      "point_count": 2,
+      "distance_3d": 14781.433178336338,
+      "polyline": [
+        {
+          "map_id": 1,
+          "position": {
+            "x": 1677.5899658203125,
+            "y": -4315.7099609375,
+            "z": 61.16999816894531
+          }
+        },
+        {
+          "map_id": 0,
+          "position": {
+            "x": -12414.1796875,
+            "y": 146.2899932861328,
+            "z": 3.2799999713897705
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Zeppelin routes are currently a manual V1 dataset.",
+    "Endpoints are anchored to nearby city taxi nodes.",
+    "Polylines are straight lines for now."
+  ]
+}

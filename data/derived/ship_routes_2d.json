@@ -1,0 +1,127 @@
+{
+  "source": "data\\derived\\taxi_nodes_2d.json",
+  "routes": [
+    {
+      "id": "boat-menethil-auberdine",
+      "mode": "ship",
+      "name": "Menethil Harbor <-> Auberdine",
+      "faction": "alliance",
+      "from_node_id": 7,
+      "to_node_id": 26,
+      "from_name": "米奈希爾港",
+      "to_name": "奧伯丁",
+      "price": 0,
+      "point_count": 5,
+      "distance_3d": 23480.66874784034,
+      "polyline": [
+        {
+          "map_id": 0,
+          "position": {
+            "x": -3792.260009765625,
+            "y": -783.2899780273438,
+            "z": 9.0600004196167
+          }
+        },
+        {
+          "map_id": 0,
+          "position": {
+            "x": -2600.0,
+            "y": 2300.0,
+            "z": 0.0
+          }
+        },
+        {
+          "map_id": 1,
+          "position": {
+            "x": 9744.0,
+            "y": -4000.0,
+            "z": 0.0
+          }
+        },
+        {
+          "map_id": 1,
+          "position": {
+            "x": 7716.0,
+            "y": 505.0,
+            "z": 0.0
+          }
+        },
+        {
+          "map_id": 1,
+          "position": {
+            "x": 6341.3798828125,
+            "y": 557.6799926757812,
+            "z": 16.290000915527344
+          }
+        }
+      ]
+    },
+    {
+      "id": "boat-menethil-theramore",
+      "mode": "ship",
+      "name": "Menethil Harbor <-> Theramore",
+      "faction": "alliance",
+      "from_node_id": 7,
+      "to_node_id": 32,
+      "from_name": "米奈希爾港",
+      "to_name": "塞拉摩",
+      "price": 0,
+      "point_count": 2,
+      "distance_3d": 3733.4371770659727,
+      "polyline": [
+        {
+          "map_id": 0,
+          "position": {
+            "x": -3792.260009765625,
+            "y": -783.2899780273438,
+            "z": 9.0600004196167
+          }
+        },
+        {
+          "map_id": 1,
+          "position": {
+            "x": -3825.3701171875,
+            "y": -4516.580078125,
+            "z": 10.4399995803833
+          }
+        }
+      ]
+    },
+    {
+      "id": "boat-bootybay-ratchet",
+      "mode": "ship",
+      "name": "Booty Bay <-> Ratchet",
+      "faction": "neutral",
+      "from_node_id": 9,
+      "to_node_id": 80,
+      "from_name": "藏寶海灣",
+      "to_name": "棘齒城",
+      "price": 0,
+      "point_count": 2,
+      "distance_3d": 13983.478379111946,
+      "polyline": [
+        {
+          "map_id": 0,
+          "position": {
+            "x": -14271.76953125,
+            "y": 299.8699951171875,
+            "z": 31.09000015258789
+          }
+        },
+        {
+          "map_id": 1,
+          "position": {
+            "x": -894.5900268554688,
+            "y": -3773.010009765625,
+            "z": 11.479999542236328
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Boat routes are currently a manual V1 dataset.",
+    "Endpoints are anchored to nearby harbor taxi nodes.",
+    "Polylines are straight lines for now."
+  ]
+}

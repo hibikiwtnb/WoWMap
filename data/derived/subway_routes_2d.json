@@ -1,0 +1,43 @@
+{
+  "source": "data\\derived\\taxi_nodes_2d.json",
+  "routes": [
+    {
+      "id": "subway-stormwind-ironforge",
+      "mode": "subway",
+      "name": "Stormwind - Ironforge Deeprun Tram",
+      "line_name_zh": "暴風城 - 鐵爐堡 地鐵",
+      "line_name_en": "Stormwind - Ironforge Deeprun Tram",
+      "faction": "alliance",
+      "from_node_id": 2,
+      "to_node_id": 6,
+      "from_name": "暴風城",
+      "to_name": "鐵爐堡",
+      "price": 0,
+      "point_count": 2,
+      "distance_3d": 4360.18476459043,
+      "polyline": [
+        {
+          "map_id": 0,
+          "position": {
+            "x": -8840.5595703125,
+            "y": 489.70001220703125,
+            "z": 109.61000061035156
+          }
+        },
+        {
+          "map_id": 0,
+          "position": {
+            "x": -4821.77978515625,
+            "y": -1155.43994140625,
+            "z": 502.2099914550781
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Subway routes are currently a manual V1 dataset.",
+    "Endpoints are anchored to nearby city taxi nodes.",
+    "Polylines are straight lines for now."
+  ]
+}
